@@ -9,6 +9,10 @@ ReactJS, Redux, HTML ; as NodeJS package manager or npm.
 router, redux , axios, styled-components e material-ui.
 
 
+## About
+
+SimpleWeather, is a simple project, which shows the weather of the inserted location.
+
 
  
 ## Instructions for running
