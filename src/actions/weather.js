@@ -3,7 +3,7 @@ import axios from "axios";
 
 const baseURL = "http://api.weatherapi.com/v1"
 
-const key = "c6ba82dd7479428aba961940200809"
+const key = "YOUR_KEY"
 
 const setWeather = (weather) => ({
     type: 'SET_WEATHER',
